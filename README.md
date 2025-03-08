@@ -1,1 +1,1 @@
-# Ovgu-Cpp-course
+# ovgu-C++-course
